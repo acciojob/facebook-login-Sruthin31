@@ -6,7 +6,7 @@ body{
 	align-items:center;
 	height:100vh;
 }
-.content{
+.section left{
 	width:450px;
 	margin-top:70px;
 	display:inline-block;
@@ -34,11 +34,24 @@ button[type="submit"]{
 	background-color:#1877f2;
 	border-radius:5px;
 	padding:10px;
-	
+	color:white;
+	border:none;
 }
-.Signup{
+.signup{
 	background-color:#42b72a;
-	border:1px solid #ccc;
+	border:none;
 	border-radius:5px;
 	padding:10px 20px;
+	color:white;
+	marign-top:10px;
+	width:340px;
+}
+.left img{
+	width:500px;
+	display:inline-block;
+	margin-right:20px;
+}
+p{
+	width:120%;
+	font-size:16px;
 }
